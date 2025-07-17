@@ -1,6 +1,27 @@
-R PROJECT FILE 2024 (SRM UNIVERSITY SONEPAT)
-NAME OF THE MEMBERS:-
-1.LAKSHAY-11022210087
-2.PRATEEK-11022210084
+# 🧬 Cancer Cell Detection Using Python
 
-THIS GITHUB REPOSITORY CONSIST OF THE CANCER CELL AND TB DETECTION PROJECT THAT WILL HELP IN MODEL BUILDING THAT CAN WORK ON ANY GIVEN DATASET RELATED TO CANCER CELLS AND TB CELLS
+This project applies **machine learning techniques** to detect cancer cells from biomedical image datasets. It combines **image processing**, **data preprocessing**, and **predictive modeling** to assist in automating cancer diagnosis.
+
+## 🔍 Project Objective
+
+To build an efficient, ML-based solution that classifies biomedical images as cancerous or non-cancerous, thereby aiding early and accurate medical diagnoses.
+
+## 🚀 Features
+
+- 📊 Data preprocessing (resizing, normalization, encoding)
+- 🧠 Supervised learning models: Logistic Regression, Decision Trees, SVM, etc.
+- 📈 Model evaluation using accuracy, precision, recall, and confusion matrix
+- 🖼️ Image input and feature extraction using OpenCV
+- 📉 Visualization of model performance with Matplotlib & Seaborn
+
+## 🛠️ Technologies Used
+
+- **Programming Language:** Python  
+- **Libraries:**  
+  - `NumPy`, `Pandas` – Data manipulation  
+  - `OpenCV` – Image processing  
+  - `scikit-learn` – ML algorithms  
+  - `Matplotlib`, `Seaborn` – Data visualization  
+
+
+
